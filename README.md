@@ -6,6 +6,9 @@ Terrorist attacks have become a serious source of risk affecting the security of
 ## 👀 Screenshots
 
 ![image alt](https://github.com/Hari00887/Data-Analyze-Terrorism/blob/main/1.jpg?raw=true)
+![image alt](https://github.com/Hari00887/Data-Analyze-Terrorism/blob/main/2.jpg?raw=true)
+![imagee alt](https://github.com/user-attachments/assets/0824ac20-bce7-4614-825f-b6df15792a60)
+
 <br>
 
 ## 📓 Overview
