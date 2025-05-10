@@ -5,10 +5,7 @@ Terrorist attacks have become a serious source of risk affecting the security of
 
 ## 👀 Screenshots
 
-<img src = "assets/1.jpg">
-<img src = "assets/2.jpg">
-<img src = "assets/3.jpg">
-
+![image alt](https://github.com/Hari00887/Data-Analyze-Terrorism/blob/main/1.jpg?raw=true)
 <br>
 
 ## 📓 Overview
